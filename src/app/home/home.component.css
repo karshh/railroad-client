@@ -1,0 +1,31 @@
+
+.bannerImg {
+	max-width: 75%;
+	padding-top: 20px;
+	padding-bottom: 50px;
+}
+
+.data-panel-list {
+	padding: 50px;
+	background-color: #D3D3D3;
+}
+
+.col-extra {
+	margin-bottom: 20px;
+}
+
+
+.content {
+	font-family: 'Lucida Console';
+}
+
+.data-panel-list {
+	padding: 2em 0;	
+}
+
+h2, h3, h4, h5 {
+	line-height: 2em;
+}
+.data-panel-list p {
+	line-height: 25px;
+}
